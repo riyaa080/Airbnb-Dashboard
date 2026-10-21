@@ -80,4 +80,4 @@ To understand how the Airbnb market has grown, which cities lead, how guests rat
 ## 📬 Contact
 
 **Riya Shahrawat**  
-[LinkedIn](https://www.linkedin.com/in/riya-shahrawat) · [itsriyashahrawat@gmail.com]
+[LinkedIn](https://www.linkedin.com/in/riya-shahrawat-133208312) · [itsriyashahrawat@gmail.com]
