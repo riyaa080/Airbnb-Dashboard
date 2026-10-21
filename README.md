@@ -8,6 +8,7 @@ An interactive **Power BI** dashboard that analyses Airbnb listings, ratings, re
 ![Ratings](images/ratings.png)
 ![Reviews](images/reviews.png)
 
+📄 [View the full dashboard as PDF](Airbnb_Dashboard.pdf)
 ---
 
 ## 🎯 Objective
@@ -64,17 +65,19 @@ To understand how the Airbnb market has grown, which cities lead, how guests rat
 
 ## 🚀 How to Use
 
-1. Download the Power BI file from [Google Drive](https://drive.google.com/file/d/1Y-AWLVkYKrNPVbhR1ONLi4nqJ9Pj1pM0/view?usp=sharing).
-2. Open `Airbnb_Dashboard.pbix` in **Power BI Desktop**.
+1. Open the [dashboard PDF](Airbnb_Dashboard.pdf) for a quick preview.
+2. Download the Power BI file from [Google Drive](https://drive.google.com/file/d/1Y-AWLVkYKrNPVbhR1ONLi4nqJ9Pj1pM0/view?usp=sharing).
+3. Open `Airbnb_Dashboard.pbix` in **Power BI Desktop**.
+> The `.pbix` file is too large to preview on Google Drive, so please download it first.
 
 ## 📁 Repository Structure
 
 ```
-├── Airbnb_Dashboard.pbix
-├── images/
+├── Project Images/
 │   ├── overview.png
 │   ├── ratings.png
 │   └── reviews.png
+├── Airbnb_Dashboard.pdf
 └── README.md
 ```
 ## 📬 Contact
